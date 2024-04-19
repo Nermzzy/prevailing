@@ -1,0 +1,23 @@
+.carousel-item img{
+    height: 25rem;
+}
+.navbar-brand{
+    font-size: 2rem;
+}
+
+
+main{
+    background-color: rgb(225, 185, 139);
+    
+  }
+a{
+    text-decoration: none;
+  }
+
+footer {
+    color:white;
+  }
+ footer a{
+    color: white;
+ }
+  
